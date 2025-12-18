@@ -8,3 +8,6 @@ jobs:
            run: echo "Hello World!"
          - name: my-world
            run: echo "Hello World 2!"
+         - name: my-step
+           run: echo "Deepana-24CB008"
+           
